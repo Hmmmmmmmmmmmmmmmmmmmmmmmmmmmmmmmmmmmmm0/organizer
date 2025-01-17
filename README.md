@@ -1,6 +1,5 @@
 # organizer
 Repository dedicated for Bosh 12v 2ah battery organizer
-# Measurment & 3d-model creation
 
 ![изображение](https://github.com/user-attachments/assets/e5995af5-a29f-459f-8007-82e4af1d1949)
 After taking apropriate amount of very accurate measurments 3D model was created in Fusion 360
